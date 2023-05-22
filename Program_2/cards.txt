@@ -1,0 +1,30 @@
+obstacle,Sticky Swamp,Your feet are stuck in the swamp!,Move back 2 spaces,-2
+obstacle,Angry Bees,The bees have surrounded you and you cant move,move back 1 space turn,-1
+obstacle,Broken Bridge,The bridge has collapsed!,Move back 4 spaces,-4
+obstacle,Rockslide,Rocks are blocking your path!,Move back 3 spaces,-3
+obstacle,Muddy Path,The path is too muddy to move forward!,Move back 1 space,-1
+obstacle,Whirlwind,A whirlwind spins you around!,Move back 5 spaces,-5
+obstacle,Steep Hill,The hill is too steep to climb!,Move back 3 spaces,-3
+obstacle,Quicksand,You're sinking in quicksand!,Move back 2 spaces,-2
+obstacle,Tangled Vines,Vines are holding you back!,Move back 4 spaces,-4
+obstacle,Falling Rocks,Watch out for falling rocks!,Move back 3 spaces,-3
+challenge,Riddle,Test your brain with this riddle and try to guess the answer to the question,What has keys but can't open locks?,Piano,3
+challenge,Trivia Question,Let's test your knowledge of astronomy,Which planet is known as the Red Planet?,Mars,2
+challenge,Memory Game,lets test that memory,Remember the sequence: red-> blue-> green-> yellow,red-> blue-> green-> yellow,4
+challenge,Math Problem,are you smarter than a 5th grader,What is 9 * 5?,45,1
+challenge,Guess the Word,can you guess it?,A fruit with yellow skin and a crescent shape,Banana,2
+challenge,Riddle,call me the riddler,What comes down but never goes up?,Rain,3
+challenge,Trivia Question,are you smarter than a 5th grader?,What is the largest ocean on Earth?,Pacific Ocean,2
+challenge,Memory Game,lets test that memory,Remember the sequence: cat-> dog ->fish-> bird,cat-> dog-> fish-> bird,4
+challenge,Math Problem,all right genius you gotta solve this ,What is 7 * 8?,56,1
+challenge,Guess the Word,can you guess it?,A sweet food made by bees,Honey,2
+reward,flashy flash,Put on your speedy shoes!,speed force, Move forward 2 spaces,2
+reward,hulky hulk,Take a giant leap forward!,thick legs, Move forward 3 spaces,3
+reward,Lucky horsey,You found a lucky horseshoe!,horse shoe,Move forward 1 space,1
+reward,aladin,Ride on a magic carpet!,carpet,Move forward 4 spaces,4
+reward,big brain,You discovered a shortcut!,brain,Move forward 5 spaces,5
+reward,the messanger,Fly with winged shoes!,shoes,Move forward 3 spaces,3
+reward,dr strange,Travel through a time warp!,time stone,Move forward 2 spaces,2
+reward,bean stalk,Climb the golden ladder!,ladder,Move forward 4 spaces,4
+reward,momma push,Use your momentum to move forward!,mom,Move forward 1 space,1
+reward,nightcrawler,Magically teleport ahead!,blue pain,Move forward 5 spaces,5
